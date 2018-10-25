@@ -1,0 +1,33 @@
+[
+   {
+      "name":"Evans",
+      "description":"Evans is known for superhero roles as Marvel comics characters",
+      "dob":"06-13-1981",
+      "country":"USA",
+      "image":"http:\/\/image.boomsbeat.com\/data\/images\/full\/211304\/513030074-jpg.jpg"
+   },
+   {
+      "name":"George Clooney",
+      "description":"He has received three Golden Globe Awards for his work as an actor and two Academy Awards, one for acting in Syriana (2006) and the other for co-producing Argo (2012)",
+      "dob":"05-06-1961",
+      "country":"USA",
+      "image":"https:\/\/i.pinimg.com\/originals\/5a\/78\/17\/5a78170ae35e93c26bd63fabb3b6ef61.jpg"
+   },
+   {
+      "name":"Jennifer Lawrence",
+      "description":"She achieved wider recognition for starring as the mutant Mystique in X-Men: First Class",
+      "dob":"08-15-1990",
+      "country":"USA",
+      "image":"https:\/\/amp.businessinsider.com\/images\/5582e39becad04535699268e-750-562.jpg"
+   },
+   {
+      "name":"Robert Downey Jr",
+      "description":"Downey topped the Forbes List of Hollywoods highest payed actors",
+      "dob":"04-04-1965",
+      "country":"USA",
+      "image":"https:\/\/i.pinimg.com\/originals\/47\/ee\/a8\/47eea80f4a8dd1c7c317eb8097901354.jpg"
+   }
+   
+
+
+]
